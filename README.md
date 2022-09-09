@@ -9,6 +9,9 @@ Data was selected from Kaggle
 •	Insights we gain were:
 
 	Top 3 jobs are Data Engineer, Data Analyst, Data Scientist.
+
 	Average Salary for Fresher Data Engineer in US is 51.5 lakhs and in INDIA is 16 lakhs.
+
 	Average Salary for Fresher Data Analyst in US is 39.6 lakhs and in INDIA is 11 lakhs.
+
 	Average Salary for Fresher Data Scientist in US is 46 lakhs and in INDIA is 14 lakhs.
