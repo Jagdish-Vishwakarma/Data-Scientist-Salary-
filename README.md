@@ -1,6 +1,7 @@
 # Data-Scientist-Salary-
 
 Data was selected from Kaggle
+Google Collab is used to run the project
 
 •	Libraries used were – Pandas, Numpy, Seaborn, Matplotlib
 
